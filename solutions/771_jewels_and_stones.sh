@@ -1,5 +1,9 @@
 #! /bin/bash/
 
+# Usage example: bash 771_jewels_and_stones.sh aA aAAbbbb
+# $1 is a jewels
+# $2 is a stones
+
 ##########################################################################################
 # 771. Jewels and Stones								##
 #											##
