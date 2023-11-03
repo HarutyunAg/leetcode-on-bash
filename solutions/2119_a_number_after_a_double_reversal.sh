@@ -13,3 +13,23 @@
 # Return true if reversed2 equals num. Otherwise return false.		##
 #									##
 ##########################################################################
+
+is_same_after_reversals() {
+    num="$1"
+
+    if [ "$num" -eq 0 ] || [ $((num % 10)) -ne 0 ]; then
+        echo "true"
+    else
+        echo "false"
+    fi
+}
+
+
+if [ $# -ne 1 ]; then
+    echo "Usage: $0 <integer>"
+    exit 1
+fi
+
+input_num="$1"
+result=$(is_same_after_reversals "$input_num")
+echo "$result"
