@@ -13,10 +13,7 @@ The project is organized into directories based on the LeetCode problem range:
 - 1000-2000-solutions
 - 2000-3000-solutions
 
-## Contribution Rules
-<img align="left" width="100" height="100" src="https://github.com/HarutyunAg/leetcode-with-bash/assets/106912298/dc3bb421-3a94-4e84-8810-72af92035bf1">
-
-
+## <img align="left" width="40" height="40" src="https://github.com/HarutyunAg/leetcode-with-bash/assets/106912298/dc3bb421-3a94-4e84-8810-72af92035bf1"> Contribution Rules
 
 1. One LeetCode Task - One Bash File:
 
