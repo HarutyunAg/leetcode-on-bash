@@ -2,6 +2,33 @@
 
 Unfortunatly __LeetCode__ doesn't provide built-in support for submitting your solution in __Bash__ scripts for most problems. This repository aims to fill that gap by offering solutions to __LeetCode__ problems using __Bash__.
 
-## ![cl-bash](https://github.com/HarutyunAg/leetcode-with-bash/assets/106912298/1dcc223a-5669-4e8a-987c-7e14f0041ec4) Project Status
+## Project Status
 
 This repository is actively maintained and regularly updated with new solutions for LeetCode problems. If you have any suggestions or contributions, feel free to submit a pull request or open an issue.
+
+## Project Structure
+
+The project is organized into directories based on the LeetCode problem range:
+- 1-1000-solutions
+- 1000-2000-solutions
+- 2000-3000-solutions
+
+## Contribution Rules
+1. One LeetCode Task - One Bash File:
+
+Each solution should be contained in its own **Bash** script file.
+
+2. File Naming Convention:
+
+Use **snake_case** for file names, mirroring the **LeetCode** task name.
+
+3. Positional Argument Support:
+   
+Ensure that your **Bash** script works with positional arguments.
+The script should accept inputs from the command line and output the solution to the terminal.
+
+4. Task Description and Example of Usage:
+
+Include a commented section at the beginning of each script with:
+- A task description.
+- Example of usage showcasing the input and expected output.
