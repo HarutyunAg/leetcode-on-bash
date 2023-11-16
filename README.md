@@ -2,18 +2,18 @@
 
 Unfortunatly __LeetCode__ doesn't provide built-in support for submitting your solution in __Bash__ scripts for most problems. This repository aims to fill that gap by offering solutions to __LeetCode__ problems using __Bash__.
 
-## Project Status
+## Project Status <img align="left" width="50" height="50" src="https://github.com/HarutyunAg/leetcode-with-bash/assets/106912298/d6c71745-d94b-42c2-a366-b4a1a4674598"> 
 
 This repository is actively maintained and regularly updated with new solutions for LeetCode problems. If you have any suggestions or contributions, feel free to submit a pull request or open an issue.
 
-## Project Structure
+## Project Structure <img align="left" width="100" height="100" src="https://github.com/HarutyunAg/leetcode-with-bash/assets/106912298/53961df7-e2ad-44aa-8ef0-24fed2c670ec"> 
 
 The project is organized into directories based on the LeetCode problem range:
 - 1-1000-solutions
 - 1000-2000-solutions
 - 2000-3000-solutions
 
-## <img align="left" width="40" height="40" src="https://github.com/HarutyunAg/leetcode-with-bash/assets/106912298/dc3bb421-3a94-4e84-8810-72af92035bf1"> Contribution Rules
+## Contribution Rules <img align="left" width="100" height="100" src="https://github.com/HarutyunAg/leetcode-with-bash/assets/106912298/afa33d73-ec14-4156-b9c2-1f7fe3de20c3"> 
 
 1. One LeetCode Task - One Bash File:
 
