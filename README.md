@@ -14,21 +14,24 @@ The project is organized into directories based on the LeetCode problem range:
 - 2000-3000-solutions
 
 ## Contribution Rules
+<img align="left" width="100" height="100" src="https://github.com/HarutyunAg/leetcode-with-bash/assets/106912298/dc3bb421-3a94-4e84-8810-72af92035bf1">
+
+
+
 1. One LeetCode Task - One Bash File:
 
-Each solution should be contained in its own **Bash** script file.
+        Each solution should be contained in its own Bash script file.
 
 2. File Naming Convention:
 
-Use **snake_case** for file names, mirroring the **LeetCode** task name.
+        Use snake_case for file names, mirroring the LeetCode task name.
 
 3. Positional Argument Support:
    
-Ensure that your **Bash** script works with positional arguments.
-The script should accept inputs from the command line and output the solution to the terminal.
+        The script should accept inputs from the command line and output the solution to the terminal.
 
 4. Task Description and Example of Usage:
 
-Include a commented section at the beginning of each script with:
-- A task description.
-- Example of usage showcasing the input and expected output.
+        Include a commented section at the beginning of each script with:
+        - A task description.
+        - Example of usage showcasing the input and expected output.
