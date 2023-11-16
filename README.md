@@ -6,7 +6,7 @@ Unfortunatly __LeetCode__ doesn't provide built-in support for submitting your s
 
 This repository is actively maintained and regularly updated with new solutions for LeetCode problems. If you have any suggestions or contributions, feel free to submit a pull request or open an issue.
 
-## Project Structure <img align="center" width="18" height="18" src="https://github.com/HarutyunAg/leetcode-with-bash/assets/106912298/53961df7-e2ad-44aa-8ef0-24fed2c670ec"> 
+## Project Structure <img align="center" width="25" height="25" src="https://github.com/HarutyunAg/leetcode-with-bash/assets/106912298/53961df7-e2ad-44aa-8ef0-24fed2c670ec"> 
 
 The project is organized into directories based on the LeetCode problem range:
 - 1-1000-solutions
