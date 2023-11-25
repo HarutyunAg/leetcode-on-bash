@@ -17,18 +17,18 @@ This repository is actively maintained and regularly updated with new solutions 
 
 1. One LeetCode Task - One Bash File:
 
-        Each solution should be contained in its own Bash script file.
+   - Each solution should be contained in its own Bash script file.
 
 2. File Naming Convention:
 
-        Use snake_case for file names, mirroring the LeetCode task name.
+   - Use snake_case for file names, mirroring the LeetCode task name.
 
 3. Positional Argument Support:
    
-        The script should accept inputs from the command line and output the solution to the terminal.
+   - The script should accept inputs from the command line and output the solution to the terminal.
 
 4. Task Description and Example of Usage:
 
-        Include a commented section at the beginning of each script with:
-        - A task description.
-        - Example of usage showcasing the input and expected output.
+   Include a commented section at the beginning of each script with:
+   - A task description.
+   - Example of usage showcasing the input and expected output.
